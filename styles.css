@@ -1,0 +1,19 @@
+.kurto {
+    background-color: burlywood;
+    color: brown;
+}
+
+.meggyleves {
+    background-color:  violet;
+    color: rgb(69, 8, 69)
+}
+
+.langos {
+    background-color: rgb(117, 78, 5);
+    color: rgb(196, 172, 105);
+}
+
+#kurtoskalacs_picture, #langos_picture, #meggyleves_picture {
+    height: auto;
+    width: 800px;
+}
